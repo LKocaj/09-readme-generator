@@ -1,9 +1,9 @@
 
 
-# Readme generator
+# README generator
 
 ## Summary
-Readme for readme generator
+creates a quick and simple readme
 
 ## Table of Contents
 - [Description](#description)
@@ -15,10 +15,10 @@ Readme for readme generator
 - [Questions](#questions)
 
 ## Installation
-Clone the repo, make sure inquirer is installed, then answer questions after you type in " node index.js "
+Clone the repo, make sure inquirer is installed, then answer the following questions like so.
 
 ## Functionality
-Creates a quick and easy readme
+saves you time when creating your project readmes
 
 ## Credits
 -
@@ -26,7 +26,7 @@ Creates a quick and easy readme
 This application is covered by the MIT license. 
 
 ## Tests
-node index.js
+type in node index.js in terminal
 ## Questions
 Follow me on Github: [Lkocaj](https://github.com/Lkocaj)
 <br />
