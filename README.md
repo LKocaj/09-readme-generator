@@ -7,7 +7,7 @@
   <p align="center">
     An awesome README generator for your projects!
     <br />
-    <a href="https://youtu.be/-ZdQSw0KhSQ"><strong>Link to youtube demo</strong></a>
+    <a href="https://www.youtube.com/watch?v=xr0HqU_mnpY&ab_channel=KocajCode"><strong>Link to youtube demo</strong></a>
   </p>
 </div>
 
@@ -126,6 +126,6 @@ Distributed under the MIT License.
 
 Github: https://github.com/LKocaj
 
-Youtube: https://youtu.be/-ZdQSw0KhSQ
+Youtube: https://www.youtube.com/watch?v=xr0HqU_mnpY&ab_channel=KocajCode
 
 <p align="right">(<a href="#top">back to top</a>)</p>
